@@ -13,53 +13,54 @@
 }
 
 p {
-	font-family:Montserrat;
+	font-family: Montserrat;
 }
 
 h4 {
-	font-family:Montserrat;
+	font-family: Montserrat;
 }
 
 h1 {
-	font-family:Oswald;
+	font-family: Oswald;
 }
 
 a {
-	font-family:Montserrat;
+	font-family: Montserrat;
 }
 
 #header {
-	border:dashed;
-	color:blue;
+	border: dashed;
+	color: blue;
 	text-align: center;
 	margin-bottom: 10px
 }
 
 #header a {
-	padding:3px;
-	background-color:#0000FF;
-	color:#FFFFFF;
-	text-decoration:none; 
+	padding: 3px;
+	background-color: #0000FF;
+	color: #FFFFFF;
+	text-decoration: none; 
 }
 
 #header a:hover {
-	padding:3px;
-	background-color:#0101DF;
-	color:#F2F2F2;
-	text-decoration:none; 
+	padding: 3px;
+	background-color: #0101DF;
+	color: #F2F2F2;
+	text-decoration: none; 
 }
 
 #blog {
-	border:solid;
-	color:blue;
+	border: solid;
+	color: blue;
 	width: 75%;
 	display: inline-block;
 }
 
 #menuderecha {
-	border:solid;
-	color:blue;
+	border: solid;
+	color: blue;
 	width: 23%;
 	display: inline-block;
 	margin-left: 0.5%;
+	margin-top: 50px;
 }
